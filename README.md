@@ -1,11 +1,11 @@
 # Hello! 👋, I'm Axel Orta</h1>
-<h3 align="center">I am a Second Year Software Engineering student at UPR - Mayaguez</h3>
+<h3 align="center">I am a Third Year Software Engineering student at UPR - Mayaguez</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Data Management**
 
 - 💻 Currently interested in: **Artificial Intelligence**
 
-- 📫 How to reach me **axelorta2153@gmail.com**
+- 📫 How to reach me **axelandres4767@gmail.com**
 
 <h3 align="right"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="right">
