@@ -18,14 +18,13 @@
 <div align="center">
 <b>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Axl47&show_icons=true&locale=en&layout=compact" alt="Axl47"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Axl47&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="Axl47"/>
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Axl47&show_icons=true&locale=en&theme=material-palenight" alt="Axl47" />
   </p>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Axl47&show_icons=true&locale=en" alt="Axl47" />
-  </p>
-
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Axl47&" alt="Axl47"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Axl47&theme=material-palenight" alt="Axl47"/>
   </p>
 </div>
