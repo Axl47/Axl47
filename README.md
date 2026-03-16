@@ -1,5 +1,5 @@
 # Hello! 👋, I'm Axel Orta</h1>
-<h3 align="center">I am a Fourth Year Software Engineering student at UPR - Mayaguez</h3>
+<h3 align="center">I am a Fifth Year Software Engineering student at UPR - Mayaguez</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Data Management**
 
@@ -19,9 +19,6 @@
 <b>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Axl47&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="Axl47"/>
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Axl47&show_icons=true&locale=en&theme=material-palenight" alt="Axl47" />
   </p>
 
   <p>
